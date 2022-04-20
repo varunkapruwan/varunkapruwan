@@ -18,6 +18,7 @@
 <a href="https://fb.com/varunkapruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="varunkapruwan" height="30" width="40" /></a>
 <a href="https://instagram.com/varunkapruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varunkapruwan" height="30" width="40" /></a>
 <a href="https://discord.gg/6622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6622" height="30" width="40" /></a>
+<a href = "https://varunkapruwan.me/" target="_blank"><img alt='website' width = '32px' align= 'center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png' /></a>
 </p>
 
 <h3 align="left">Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
