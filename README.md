@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Python**
 
-- 👨‍💻 You can also check out my portfolio at [varunkapruwan.me](www.varunkapruwan.me)
+- 👨‍💻 You can also check out my portfolio at [varunkapruwan.me](http://varunkapruwan.me)
 
 - 📫 How to reach me **varunkapruwan1251@gmail.com**
 
